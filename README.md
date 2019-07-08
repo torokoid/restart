@@ -118,7 +118,15 @@ body::before {
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
 -->
-      <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
+      <p>&#160;</p> <p>&#160;</p>
+      
+      <p>退職者リスト</p><br>
+      <p>半澤幸彦：定年退職</p><br>
+      <p>渡辺正樹：定年退職</p><br>
+      <p>佐々木：50代で転職</p><br>
+      <p>前田：入社直後に転職</p><br>
+      
+      <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
       <section>
 <h2>おまけ、宇都宮とさいたまの天気予報（ときどき上下が入れ替わるので注意！）</h2>
 <div class="mamewaza_weather"><div><div class="mamewaza_weather_exp"><span class="mamewaza_assembled">assembled by <a href="http://mamewaza.com/tools/" target="_blank" rel="nofollow">まめわざ</a></span></div></div></div><script type="text/javascript" src="https://mamewaza.net/weather.js?151209"></script><script type="text/javascript">mamewaza_weather({layout:"horizontal",when:"7days",explanation:true,region:"110010",style:"div.mamewaza_weather > div{background-color:#66ff99;}div.mamewaza_weather th,div.mamewaza_weather td,div.mamewaza_weather div.mamewaza_weather_exp{padding:10px;}div.mamewaza_weather > div{padding:10px;font-size:14px;}div.mamewaza_weather th,div.mamewaza_weather td{border:none;border-bottom:1px dashed #eeeeee;}div.mamewaza_weather,div.mamewaza_weather a{color:#000;}div.mamewaza_weather span.mamewaza_weather_icon{color:inherit;font-size:36px;text-shadow:none;}div.mamewaza_weather div.mamewaza_weather_exp,div.mamewaza_weather div.mamewaza_weather_exp a{color:#000000;font-size:12px;}div.mamewaza_weather td.mamewaza_weather_sat,div.mamewaza_weather td.mamewaza_weather_sat span.mamewaza_weather_icon{color:#00f;}div.mamewaza_weather td.mamewaza_weather_sun,div.mamewaza_weather td.mamewaza_weather_sun span.mamewaza_weather_icon{color:#f00;}",css:"div.mamewaza_weather > div{background-color:#66ff99;}div.mamewaza_weather th,div.mamewaza_weather td,div.mamewaza_weather div.mamewaza_weather_exp{padding:10px;}div.mamewaza_weather > div{padding:10px;font-size:14px;}div.mamewaza_weather th,div.mamewaza_weather td{border:none;border-bottom:1px dashed #eeeeee;}div.mamewaza_weather,div.mamewaza_weather a{color:#000;}div.mamewaza_weather span.mamewaza_weather_icon{color:inherit;font-size:36px;text-shadow:none;}div.mamewaza_weather div.mamewaza_weather_exp,div.mamewaza_weather div.mamewaza_weather_exp a{color:#000000;font-size:12px;}div.mamewaza_weather td.mamewaza_weather_sat,div.mamewaza_weather td.mamewaza_weather_sat span.mamewaza_weather_icon{color:#00f;}div.mamewaza_weather td.mamewaza_weather_sun,div.mamewaza_weather td.mamewaza_weather_sun span.mamewaza_weather_icon{color:#f00;}"})</script> 
@@ -140,7 +148,8 @@ body::before {
 
 <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
-<p align="right"><marquee direction="left" scrollamount="10" width="80%">まほろばの里、ロッジ全景、2016/08/12 06:32撮影 ~~~ (^^)/</marquee></p>
+       <!--
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">まほろばの里、ロッジ全景、2016/08/12 06:32撮影 ~~~ (^^)/</marquee></p>-->
 <!-- フッタ -->
  <footer>
  Copyright 2019/07/08 S.Hada
