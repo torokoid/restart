@@ -156,8 +156,8 @@ body::before {
 
 <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
-       <!--
-<p align="right"><marquee direction="left" scrollamount="10" width="80%">まほろばの里、ロッジ全景、2016/08/12 06:32撮影 ~~~ (^^)/</marquee></p>-->
+      
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">まほろばの里、ロッジ全景、2016/08/12 06:32撮影 ~~~ (^^)/</marquee></p>
 <!-- フッタ -->
  <footer>
  Copyright 2019/07/08 S.Hada
