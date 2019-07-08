@@ -88,7 +88,7 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 定年退職祝いの記録 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 1983_HGT_7K配属者、定年退職祝いの記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 
