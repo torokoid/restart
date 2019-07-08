@@ -119,13 +119,13 @@ body::before {
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
 -->
       <p>&#160;</p> <p>&#160;</p>
-      
+  <h3>    
       <p>退職者リスト</p><br>
       <p>半澤幸彦：定年退職</p><br>
       <p>渡辺正樹：定年退職</p><br>
       <p>佐々木：50代で転職</p><br>
       <p>前田：入社直後に転職</p><br>
-      
+      </h3>
       <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
       <section>
 <h2>おまけ、宇都宮とさいたまの天気予報（ときどき上下が入れ替わるので注意！）</h2>
