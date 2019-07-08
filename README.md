@@ -86,7 +86,8 @@ body::before {
 
 <!-- ヘッダ -->
  <header>
- <h2><span class="white"><strong><p>夏季休暇を利用して<a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/409.JPG" alt="毎年、"></span></a>お泊り会！</p></strong></span></h2>
+ <!--
+ <h2><span class="white"><strong><p>夏季休暇を利用して<a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/409.JPG" alt="毎年、"></span></a>お泊り会！</p></strong></span></h2>-->
  </header>
 <!--
 <p><span class="white"><strong> <p><a href="#" class="p">歴代の記録、<span><img src="https://torokoid.github.io/mahoroba/0216.JPG" alt="歴代の記録、"></span></a>年代のクリックで飛びます。<br/>戻るにはブラウザの戻るボタンで！ </p></strong></span></p>
@@ -132,8 +133,6 @@ body::before {
  <section>
  <h2>簡易会計計算</h2>
        </section>
-  <p>&#160;</p>
-
  <section><h2>
  <a href="https://torokoid.github.io/seisan-2/" target="_blank">簡易会計計算、多人数対応バージョンアップ版！</a>
   </h2>  </section>
