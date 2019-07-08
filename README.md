@@ -80,7 +80,7 @@ body::before {
 <body onload="alert('長い間、お疲れ様でした！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 定年退職祝い !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 定年退職祝いの記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 
@@ -117,7 +117,7 @@ body::before {
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
 -->
-      <p>&#160;</p>
+      <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
       <section>
 <h2>おまけ、宇都宮とさいたまの天気予報（ときどき上下が入れ替わるので注意！）</h2>
 <div class="mamewaza_weather"><div><div class="mamewaza_weather_exp"><span class="mamewaza_assembled">assembled by <a href="http://mamewaza.com/tools/" target="_blank" rel="nofollow">まめわざ</a></span></div></div></div><script type="text/javascript" src="https://mamewaza.net/weather.js?151209"></script><script type="text/javascript">mamewaza_weather({layout:"horizontal",when:"7days",explanation:true,region:"110010",style:"div.mamewaza_weather > div{background-color:#66ff99;}div.mamewaza_weather th,div.mamewaza_weather td,div.mamewaza_weather div.mamewaza_weather_exp{padding:10px;}div.mamewaza_weather > div{padding:10px;font-size:14px;}div.mamewaza_weather th,div.mamewaza_weather td{border:none;border-bottom:1px dashed #eeeeee;}div.mamewaza_weather,div.mamewaza_weather a{color:#000;}div.mamewaza_weather span.mamewaza_weather_icon{color:inherit;font-size:36px;text-shadow:none;}div.mamewaza_weather div.mamewaza_weather_exp,div.mamewaza_weather div.mamewaza_weather_exp a{color:#000000;font-size:12px;}div.mamewaza_weather td.mamewaza_weather_sat,div.mamewaza_weather td.mamewaza_weather_sat span.mamewaza_weather_icon{color:#00f;}div.mamewaza_weather td.mamewaza_weather_sun,div.mamewaza_weather td.mamewaza_weather_sun span.mamewaza_weather_icon{color:#f00;}",css:"div.mamewaza_weather > div{background-color:#66ff99;}div.mamewaza_weather th,div.mamewaza_weather td,div.mamewaza_weather div.mamewaza_weather_exp{padding:10px;}div.mamewaza_weather > div{padding:10px;font-size:14px;}div.mamewaza_weather th,div.mamewaza_weather td{border:none;border-bottom:1px dashed #eeeeee;}div.mamewaza_weather,div.mamewaza_weather a{color:#000;}div.mamewaza_weather span.mamewaza_weather_icon{color:inherit;font-size:36px;text-shadow:none;}div.mamewaza_weather div.mamewaza_weather_exp,div.mamewaza_weather div.mamewaza_weather_exp a{color:#000000;font-size:12px;}div.mamewaza_weather td.mamewaza_weather_sat,div.mamewaza_weather td.mamewaza_weather_sat span.mamewaza_weather_icon{color:#00f;}div.mamewaza_weather td.mamewaza_weather_sun,div.mamewaza_weather td.mamewaza_weather_sun span.mamewaza_weather_icon{color:#f00;}"})</script> 
@@ -130,18 +130,12 @@ body::before {
        </section>-->
    <p>&#160;</p>
  <section>
- <h2>簡易表計算①</h2>
+ <h2>簡易会計計算</h2>
        </section>
   <p>&#160;</p>
 
  <section><h2>
- <a href="https://torokoid.github.io/seisan/" target="_blank">簡易表計算②-JavaScriptバージョンアップ版</a>
-  </h2>  </section>
-
- <p>&#160;</p>
-
- <section><h2>
- <a href="https://torokoid.github.io/seisan-2/" target="_blank">簡易表計算③-JavaScript多人数対応バージョンアップ版！</a>
+ <a href="https://torokoid.github.io/seisan-2/" target="_blank">簡易会計計算、多人数対応バージョンアップ版！</a>
   </h2>  </section>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p>
 
