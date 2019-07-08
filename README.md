@@ -72,13 +72,21 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
+   p.note { display: none; }
+}
+
 </style>
 
 </head>
 
 
 <body onload="alert('長い間、お疲れ様でした！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
-
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにすると
+  より見やすくご覧頂けます。
+</p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 定年退職祝いの記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
@@ -119,7 +127,7 @@ body::before {
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
 -->
       <p>&#160;</p> <p>&#160;</p>
-  <h3> <font color="#0000ff">   
+  <h3> <font color="blue">   
       <p>退職者リスト</p><br>
       <p>半澤幸彦：定年退職</p><br>
       <p>渡辺正樹：定年退職</p><br>
