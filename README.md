@@ -82,12 +82,13 @@ body::before {
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 定年退職祝い !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<a href="https://torokoid.github.io/mahoroba_sitemap/">サイトマップ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="blinking"><a href="https://torokoid.github.io/mahoroba_home/">New_home</a></span>
+
 
 <!-- ヘッダ -->
  <header>
  <h2><span class="white"><strong><p>夏季休暇を利用して<a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/409.JPG" alt="毎年、"></span></a>お泊り会！</p></strong></span></h2>
  </header>
+<!--
 <p><span class="white"><strong> <p><a href="#" class="p">歴代の記録、<span><img src="https://torokoid.github.io/mahoroba/0216.JPG" alt="歴代の記録、"></span></a>年代のクリックで飛びます。<br/>戻るにはブラウザの戻るボタンで！ </p></strong></span></p>
 <div style="background: url(https://torokoid.github.io/mahoroba/454.JPG) no-repeat top center; background-size:contain;">
 <h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate">
@@ -115,10 +116,7 @@ body::before {
 <a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>いつも遠くからの運転、お気をつけて！</p>
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
-      <section>
- <h2>まほろば地図</h2>
- <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3613.6261617544483!2d140.1364481031006!3d36.765441082837135!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1527029841980" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-       </section>
+-->
       <p>&#160;</p>
       <section>
 <h2>おまけ、宇都宮とさいたまの天気予報（ときどき上下が入れ替わるので注意！）</h2>
@@ -133,25 +131,6 @@ body::before {
    <p>&#160;</p>
  <section>
  <h2>簡易表計算①</h2>
-     <p> <h4><span class="grey">各自の支払い金額をす、し、は、むの順に入れる。</span><br>
-  <input type="text" id="numa">
-  <input type="text" id="numb">
-  <input type="text" id="numc">
-  <input type="text" id="numd">
- <input type="button" value="合計する" onclick="alert(goukei(numa.value,numb.value,numc.value,numd.value))"><br>
-          <input type="text" id="nume"><span class="grey">←合計金額を入れる。</span><br>      
-  <input type="button" value="す～" onclick="alert(hikizan_su(numa.value,nume.value))">
-   <input type="button" value="し～" onclick="alert(hikizan_su(numb.value,nume.value))">
-   <input type="button" value="は～" onclick="alert(hikizan_su(numc.value,nume.value))">
-   <input type="button" value="む～" onclick="alert(hikizan_su(numd.value,nume.value))">
- <span class="grey">←名前を押すと各自の割り勘分が算出される。</span><br>
-          <span class="grey">割り勘分を順番に入れる。</span><br>
-  <input type="text" id="num_su">
-  <input type="text" id="num_si">
-  <input type="text" id="num_ha">
-  <input type="text" id="num_mu"><br>
-          <span class="grey">最後に検算してみる。→</span>
-        <input type="button" value="検算" onclick="alert(goukei(num_su.value,num_si.value,num_ha.value,num_mu.value))"></h4></p>
        </section>
   <p>&#160;</p>
 
@@ -164,11 +143,7 @@ body::before {
  <section><h2>
  <a href="https://torokoid.github.io/seisan-2/" target="_blank">簡易表計算③-JavaScript多人数対応バージョンアップ版！</a>
   </h2>  </section>
-
-       <p>&#160;</p><p>&#160;</p>
-
-    
-             <p>&#160;</p>
+       <p>&#160;</p><p>&#160;</p><p>&#160;</p>
 
 <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
